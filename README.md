@@ -76,9 +76,9 @@ git push origin my-new-branch
 Version 3, 29 June 2007
 
 # 👸 Created by
-Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane.</a>
+Created with &#129293; by <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Sumeet Ghumare.</a>
 
-<b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Madhavi Sonawane</a> for more such contents. 
+<b>Follow <a href="https://github.com/CODING-Enthusiast9857" target="_blank">Sumeet Ghumare</a> for more such contents. 
 <br> 🇹​​​​​🇭​​​​​🇦​​​​​🇳​​​​​🇰​​​​​ 🇾​​​​​🇴​​​​​🇺​​​​​ for visiting...!!</b> 
 <br>
 # 💻 Happy CODING...!! 💻
